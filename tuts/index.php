@@ -5,5 +5,4 @@
 <html lang="en">
 
     <?php includes('partials/header.php')?>
-    
-</body>
+    <?php includes('partials/footer.php')?>
