@@ -11,7 +11,7 @@
     <?php include('partials/header.php')?>
     <section class="container grey-text">
         <h4 class="center">Add A pizza</h4>
-        <form method="" action="add.php" class="white">
+        <form method="post" action="add.php" class="white">
             <label for="">Your email:</label>
             <input type="text" name="email">
             <label for="">Pizza Title:</label>
